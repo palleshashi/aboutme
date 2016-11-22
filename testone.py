@@ -1,8 +1,3 @@
-"""print("Om Sai Ram")
-print("I am shashi blessed by baba")
-print("2. Dept of the testing")
-print("3.I am a tester")"""
-
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from time import sleep
